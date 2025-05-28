@@ -1,0 +1,19 @@
+*_{
+    margin: 0;
+    padding: 0;
+}
+.d-flex{
+    display: flex;
+}
+.justifey-content{
+    justify-content: space-around;
+}
+.background{
+    background-color: blueviolet;
+}
+body{
+    background-color: black;
+}
+div{
+    margin: 30px;
+}
